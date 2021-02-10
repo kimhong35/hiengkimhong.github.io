@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hieng Kimhong
 
 You can use the [editor on GitHub](https://github.com/kimhong35/hiengkimhong.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# I am Mathimatic student at RUPP.
+## I am a Content Creator.
+### I am a CEO at Learning Home.
 
 - Bulleted
 - List
