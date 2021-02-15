@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# I am Mathimatic student at RUPP.
+# I am Mathimatic student at RUPP...
 ## I am a Content Creator.
 ### I am a CEO at Learning Home.
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Hi** and _Hello_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
